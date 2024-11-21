@@ -21,6 +21,6 @@ node index.js
 ```
 
 ## PROOF
-<img src="proof/burat.jpg" alt="Description of image" style="width: 100%; height: auto; max-width: 300px; aspect-ratio: 9 / 16;">
+<img src="" alt="Description of image" style="width: 100%; height: auto; max-width: 300px; aspect-ratio: 9 / 16;">
 
 <img src="proof/Screenshot_20240929_124022_Chrome.jpg" alt="Description of image" style="width: 100%; height: auto; max-width: 300px; aspect-ratio: 9 / 16;">
